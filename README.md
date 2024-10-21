@@ -29,7 +29,7 @@ Adding 2FA to Moodle requires knowledge of PHP, as Most websites are developed i
 
 ### Deliverables
 
-The implementation of 2FA will provide a more secure login experience for users. The project aims to significantly reduce unauthorized access and security breaches. Administrators will also have access to detailed login logs, enabling forensic analysis of suspicious login attempts.
+The implementation of 2FA will provide a more secure login experience for users via an authenticator OTP or email OTP. The project aims to significantly reduce unauthorized access and security breaches. Administrators will also have access to detailed login logs, enabling forensic analysis of suspicious login attempts.
 
 ### Core Objectives:
 - Allow administrators to export login logs for further analysis.
@@ -56,5 +56,7 @@ The implementation of 2FA will provide a more secure login experience for users.
 - [XAMPP](https://www.apachefriends.org/index.html) Web Server
 - Web Browsers: Chrome, Firefox, Safari, Edge
 - Microsoft Word (2016 or later)
+- Authenticator App
+- Registered email
 
 ---
